@@ -21,8 +21,9 @@
 ---
 <!-- New posts: -->
 
-Hey! Nice to see you.
-I am a beginner programmer and I really like it!<br>
+Hey! Nice to see you. <br>
+I'm a beginner programmer and I really like it!<br>
+I'm currently learning Python 🐍. <br>
 <img src="https://slackmojis.com/emojis/9845-meow_heart/download" width = 50>
 
 ---
