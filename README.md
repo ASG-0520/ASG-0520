@@ -50,5 +50,5 @@ Card game, you need to score more points than the computer, but less than 21.
 
 # <br>
 
-![](https://komarev.com/ghpvc/?username=test)  <a href="https://discord.gg/qxcXsNfNAb" target="_blank"><img src="https://img.shields.io/discord/159007470184955904?label=Discord&logo=Discord"></a>
+![](https://komarev.com/ghpvc/?username=ASG-0520)  <a href="https://discord.gg/qxcXsNfNAb" target="_blank"><img src="https://img.shields.io/discord/159007470184955904?label=Discord&logo=Discord"></a>
  
