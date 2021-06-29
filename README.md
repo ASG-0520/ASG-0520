@@ -8,8 +8,8 @@
         🏦City:       Saint-Petersburg
         🌎Languages:  English | Russian
         🍰Birthday:   20 may
-        📞Telegramm:  @******
-        📬Email:      will be soon...
+        📞Telegramm:  @ASG_0520
+        📬Email:      ASG-0520@pm.me
 
 </details>
 
