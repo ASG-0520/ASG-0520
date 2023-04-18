@@ -36,7 +36,7 @@ Card game, you need to score more points than the computer, but less than 21.
 
 ---
 
-<a href="https://www.youtube.com/watch?v=L075FL5iG_g" target="_blank"><img src="http://img.youtube.com/vi/L075FL5iG_g/0.jpg" width="480" height="360" border="0" /></a>
+<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="http://img.youtube.com/vi/jfKfPfyJRdk/0.jpg" width="480" height="360" border="0" /></a>
 
 :musical_note: Feel free to think ~ Chill Lo-fi Hip-Hop Beats ~ Beats to relax/study to
 
