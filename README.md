@@ -4,21 +4,19 @@
 
 <details>
     <summary>Detailed information </summary>
-
-        🏦City:       Saint-Petersburg
+        
         🌎Languages:  English | Russian
-        🍰Birthday:   20 may
-        📞Telegramm:  @ASG_0520
         📬Email:      ASG-0520@pm.me
-
 </details>
 
 <br>
-
+<!-- images: 
 |![](https://widewp.ru/images/cities/457.jpg)|![](https://lira-servis.ru/upload/iblock/266/5d71127085600a11bd687494.jpg)|![](https://vsthemes.org/uploads/posts/2018-02/1582031325_saint-petersburg-s_vsthemes_ru-51.jpg)|![](https://vsthemes.org/uploads/posts/2018-02/1582031325_saint-petersburg-s_vsthemes_ru-48.jpg)|
 |-|-|-|-|
 
 ---
+
+-->
 
 Hey! Nice to see you. <br>
 I'm currently learning Python 🐍. <br>
